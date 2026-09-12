@@ -6,7 +6,7 @@
 
 ###
 
-<p data-importer="text" align="left">💻 Estudante de Ciência da Computação no Centro Universitário do Distrito Federal (UDF), atualmente no 2º semestre.<br><br>Durante minha formação, venho desenvolvendo conhecimentos em programação, com experiência acadêmica em Python (básico) e aprimorando minhas habilidades em C e HTML, buscando fortalecer minha base em desenvolvimento e lógica de programação.<br><br>Tenho interesse em tecnologia e desenvolvimento de software e estou em busca de oportunidades que me permitam aplicar meus conhecimentos na prática, aprender com novos desafios e desenvolver minha experiência profissional na área.</p>
+<p data-importer="text" align="left">Estudante de Ciência da Computação no Centro Universitário do Distrito Federal (UDF), atualmente no 2º semestre.<br><br>Durante minha formação, venho desenvolvendo conhecimentos em programação, com experiência acadêmica em Python (básico) e aprimorando minhas habilidades em C e HTML, buscando fortalecer minha base em desenvolvimento e lógica de programação.<br><br>Tenho interesse em tecnologia e desenvolvimento de software e estou em busca de oportunidades que me permitam aplicar meus conhecimentos na prática, aprender com novos desafios e desenvolver minha experiência profissional na área.</p>
 
 ###
 
